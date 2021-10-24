@@ -49,6 +49,4 @@ int main()
     {
         std::cout << entrada[i];
     }
-    
-    std::cout << "Hello World!\n";
 }
